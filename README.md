@@ -1,5 +1,8 @@
 # Project Description
 This project on Pycharm setup with Docker, Flask, MySQL, and Postman
 
-# Screenshots
+## Postman Screenshot
 ![Postman Screenshots](screenshots/postman.png)
+
+## SQL Data Screenshot
+![SQL Screenshots](screenshots/sqldata.PNG)
